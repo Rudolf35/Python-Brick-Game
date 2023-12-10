@@ -39,10 +39,10 @@ Brick의 멤버를 추가하거나 변경해 더 다양하게 만들 수 있겠�
 
 ## 아래는 데모 플레이 이미지입니다.
 
-![Start screen](demo1.jpeg)
+![Start screen](demo1.jpg)
 
-![Stage_screen](demo2.jpeg)
+![Stage_screen](demo2.jpg)
 
-![Game_screen1](demo3.jpeg)
+![Game_screen1](demo3.jpg)
 
-![Game screen2](demo4.jpeg)
+![Game screen2](demo4.jpg)
